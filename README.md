@@ -24,7 +24,7 @@ This project demonstrates how frontend and backend communicate using APIs and JS
 ---
 
 **
-## 📂 Project Structure**
+## 📂 Project Structure
 
 ```bash
 flask-todo-app/
